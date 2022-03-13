@@ -31,3 +31,5 @@
 [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/JshS42web)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](kesamirov1997@gmail.com)
 [![Skype](https://img.shields.io/badge/Skype-%2300AFF0.svg?style=for-the-badge&logo=Skype&logoColor=white)](https://join.skype.com/invite/ONTJVAYJA6Ta)
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Shakh07&show_icons=true&theme=cobalt)](https://github.com/Shakh07/github-readme-stats)
