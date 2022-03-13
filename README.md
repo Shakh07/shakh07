@@ -1,4 +1,4 @@
-![Header](https://github.com/Shakh07/shakh07/blob/main/assets/image.png)
+![Header](https://github.com/Shakh07/shakh07/blob/main/assets/image.jpeg)
 
 ### About me
 
