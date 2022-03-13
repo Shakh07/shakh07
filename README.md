@@ -1,6 +1,14 @@
 ![Header](https://github.com/Shakh07/shakh07/blob/main/assets/image.png)
 
+### About me
+
 ## I'm beginner Frontend developer
+
+1. I love JavaScript language and its framework Vue.js (For me, programming is a way of life. Life of the Creator).
+
+2. I like to read books and articles about algorithms.
+
+3. I like sport. Sport gives me self-confidence and it helps me to be disciplined.
 
 ### Languages and Tools
 
@@ -17,3 +25,9 @@
 ![NPM](https://img.shields.io/badge/NPM-%23000000.svg?style=for-the-badge&logo=npm&logoColor=white)
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
+
+### My Contacts
+
+[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/JshS42web)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](kesamirov1997@gmail.com)
+[![Skype](https://img.shields.io/badge/Skype-%2300AFF0.svg?style=for-the-badge&logo=Skype&logoColor=white)](https://join.skype.com/invite/ONTJVAYJA6Ta)
