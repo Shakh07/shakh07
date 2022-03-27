@@ -2,7 +2,7 @@
 
 ### About me
 
-## I'm beginner Frontend developer
+## I'm frontend developer
 
 1. I love JavaScript language and its framework Vue.js (For me, programming is a way of life. Life of the Creator).
 
